@@ -1,2 +1,3 @@
 # hello-word
-Exercism Practices
+INSERT INTO hello_world (greeting)
+SELECT 'Hello, World!';
